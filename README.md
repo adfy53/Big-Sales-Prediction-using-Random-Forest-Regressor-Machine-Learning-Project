@@ -1,4 +1,4 @@
-# Title of Proje
+# Title of Projet
 Big Sales Prediction using Random Forest Regressor
 
 # Objective
